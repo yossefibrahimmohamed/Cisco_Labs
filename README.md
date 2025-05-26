@@ -1,23 +1,19 @@
-Cisco Labs Collection
+## Cisco Labs Collection 🔬
 
 This repository contains a collection of Cisco networking labs designed to help learners and professionals practice and improve their networking skills. The labs cover various topics from basic configurations to advanced routing and switching concepts.
 📁 Contents
 
 The labs are organized by topic and difficulty. Here’s a general structure:
 
-/Basic-Labs
+1 - Basic-Labs
    
-/Routing
+2 - Routing
   
-/Switching
-    
-
-/WAN
+3 - Switching
+     
+4 - Security
   
-/Security
-  
-
-/Others
+5 - Others
   
 
     Adjust the above structure according to your actual folder/lab setup.
