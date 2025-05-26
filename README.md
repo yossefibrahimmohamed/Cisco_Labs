@@ -3,6 +3,14 @@
 This repository contains a collection of Cisco networking labs designed to help learners and professionals practice and improve their networking skills. The labs cover various topics from basic configurations to advanced routing and switching concepts.
 📁 Contents
 
+## Images
+
+<img width="553" alt="Screenshot 2025-05-26 030337" src="https://github.com/user-attachments/assets/c28a5a8e-dc48-4e43-938b-83a9e679f815" />
+
+<img width="722" alt="Screenshot 2025-05-26 030228" src="https://github.com/user-attachments/assets/809a12be-1f88-46dc-9d24-6ba090f3ee6a" />
+
+
+
 The labs are organized by topic and difficulty. Here’s a general structure:
 
 1 - Basic-Labs
@@ -21,8 +29,6 @@ The labs are organized by topic and difficulty. Here’s a general structure:
 🧰 Tools Used
 
     Cisco Packet Tracer
-
-    GNS3
 
     Cisco IOS
 
